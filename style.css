@@ -1,0 +1,132 @@
+body{
+    background-color: lightpink;
+}
+#name{
+    color: red;
+    font-size: 40px ;
+    font-weight: bold;
+    padding-right: 3px;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    list-style: none;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px;
+    margin-right: 5px;
+    color: blue;
+}
+.link{
+    text-decoration: none;
+    cursor: crosshair;
+}
+#Home{
+    background-color: olive;
+    color: white;
+    width: 1200px;
+    height: 80px;
+    text-align: center;
+    padding-left: 10px;
+    font-size: 30px;
+
+}
+#image{
+    width:200px;
+    height: 200px;
+    border-radius: 70px;
+    padding-bottom: 1px;
+}
+#About{
+display: flex;
+align-items: center;
+padding: 40px;
+color:brown;
+padding-left:4px ;
+}
+#qualify{
+    color: violet;
+    text-align: center;
+    padding-left: 300px;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: yellowgreen;
+
+
+
+}
+#qualification table,tr,td{
+    align-items: center;
+    border: 1px solid;
+    padding-right: 15px;
+    margin-left: 500px;
+    background-color:white;
+    border-collapse:collapse;
+    margin-bottom: 50px;
+    padding-right: 70px;
+}
+#Skills{
+    background-color: cornflowerblue;
+    width:1200px;
+    height: 450px;
+    padding-top:20px;
+
+}
+#heading1{
+    font-weight: bold;
+    font-size: 30px;
+    background-color: aqua;
+    color: red;
+    padding-left: 300px;
+    padding-top: -30px;
+
+}
+#personal{
+    font-weight: bold;
+    font-size: 20px;
+    color: grey;
+    padding-left: 250px;
+}#heading2{
+    font-weight: bold;
+    font-size: 30px;
+    background-color: aqua;
+    color: red;
+    padding-left: 300px;
+    padding-top: -30px;
+}
+#professional{
+    font-weight: bold;
+    font-size: 20px;
+    color: grey;
+    padding-left: 250px;
+}
+#contact{
+    background-color:lemonchiffon;
+}
+#heading3{
+    font-weight: bold;
+    font-size: 30px;
+    color: brown;
+    background-color: white;
+    padding-left: 500px;
+}
+#details{
+    text-decoration: none;
+    color: lightcoral;
+    padding-left: 300px;
+
+}
+#last{
+    text-align: center;
+}
+    
+
+
+
+
+
+
+
+
+
